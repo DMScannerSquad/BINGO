@@ -1,0 +1,18 @@
+body {
+background-color: #3388ff;
+}
+td {
+padding: 25px;
+background-color: white;
+}
+table, th, td {
+border: 2px solid black;
+border-collapse: collapse;
+}
+table {
+margin: auto;
+width: 40%;
+}
+th {
+font-size: 45px;
+}
