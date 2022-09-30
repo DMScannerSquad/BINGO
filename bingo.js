@@ -19,8 +19,8 @@ squares[12].textContent = "FREE SPACE";
 squares[12].style.backgroundColor = "#fff600";
 	
 function selectSquare(){
-	if (this.style.backgroundColor != "#fff600"){
-		this.style.backgroundColor = "#fff600";
+	if (this.style.backgroundColor != "gold"){
+		this.style.backgroundColor = "gold";
 	} else {
 		this.style.backgroundColor = "white";
 	}
