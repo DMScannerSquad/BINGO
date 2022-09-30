@@ -75,4 +75,5 @@ const text = [
 "Assault",
 "Neighbor Dispute",
 "Prowler",
+"Barking Dog",
 ];
