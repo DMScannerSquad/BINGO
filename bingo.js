@@ -16,7 +16,7 @@ for (var i = 0; i < squares.length; i++){
 	squares[i].textContent = cardText[i];
 }
 squares[12].textContent = "FREE SPACE";
-squares[12].style.backgroundColor = "#fff600";
+squares[12].style.backgroundColor = "yellow";
 	
 function selectSquare(){
 	if (this.style.backgroundColor != "yellow"){
