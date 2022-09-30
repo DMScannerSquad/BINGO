@@ -4,6 +4,7 @@ background-color: black;
 td {
 padding: 15px;
 background-color: white;
+text-align: center;
 }
 table, th, td {
 border: 2px solid #ff0000;
