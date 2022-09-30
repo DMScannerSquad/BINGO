@@ -64,4 +64,13 @@ const text = [
 "Interstate Accident",
 "Water Rescue",
 "Welfare Check",
+"Medics for Intox",
+"Computer Problem",
+"Stolen Car Was Towed",
+"Crow Tow",
+"In Custody/ Arrest Made",
+"Detained",
+"Background Yelling on Radio",
+"Suspicious Activity",
+"Assault",
 ];
