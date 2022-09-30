@@ -20,7 +20,7 @@ squares[12].style.backgroundColor = "#fff600";
 	
 function selectSquare(){
 	if (this.style.backgroundColor != "#fff600"){
-		this.style.backgroundColor = "fff600";
+		this.style.backgroundColor = "#fff600";
 	} else {
 		this.style.backgroundColor = "white";
 	}
