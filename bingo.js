@@ -19,8 +19,8 @@ squares[12].textContent = "FREE SPACE";
 squares[12].style.backgroundColor = "#fff600";
 	
 function selectSquare(){
-	if (this.style.backgroundColor != "palegoldenrod"){
-		this.style.backgroundColor = "palegoldenrod";
+	if (this.style.backgroundColor != "yellow"){
+		this.style.backgroundColor = "yellow";
 	} else {
 		this.style.backgroundColor = "white";
 	}
