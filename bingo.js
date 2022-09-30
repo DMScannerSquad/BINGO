@@ -15,8 +15,8 @@ for (var i = 0; i < squares.length; i++){
 	squares[i].addEventListener("click", selectSquare);
 	squares[i].textContent = cardText[i];
 }
-squares[12].textContent = "Free space";
-squares[12].style.backgroundColor = "lightskyblue";
+squares[12].textContent = "FREE SPACE";
+squares[12].style.backgroundColor = "#ACA000";
 	
 function selectSquare(){
 	if (this.style.backgroundColor != "lightskyblue"){
