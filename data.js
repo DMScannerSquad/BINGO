@@ -55,7 +55,7 @@ const text = [
 "Fight Inside a Business",
 "Taser Deployed",
 "Detoured By a Train",
-"Arcing and Sparking Line",
+"Arcing/Sparking Line",
 "Felony Stop",
 "Vehicle Stuck in High Water",
 "AIR",
