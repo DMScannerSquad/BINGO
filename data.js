@@ -80,4 +80,5 @@ const text = [
 "Car vs Deer",
 "B & E in Progress",
 "Trespass",
+"Pepper Spray",
 ];
