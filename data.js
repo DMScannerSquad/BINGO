@@ -81,4 +81,6 @@ const text = [
 "B & E in Progress",
 "Trespass",
 "Pepper Spray",
+"PIT Successful",
+"PIT Approved",
 ];
