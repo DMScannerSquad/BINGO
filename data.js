@@ -83,4 +83,5 @@ const text = [
 "Pepper Spray",
 "PIT Successful",
 "PIT Approved",
+"Decon Needed",
 ];
