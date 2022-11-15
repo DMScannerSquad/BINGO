@@ -85,4 +85,5 @@ const text = [
 "PIT Approved",
 "Decontamination Needed",
 "Driver Passed Out",
+"Suspect Wearing Mask",
 ];
