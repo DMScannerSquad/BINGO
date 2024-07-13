@@ -7,13 +7,13 @@ const text = [
 "Suspect on Bicycle",
 "10-99 Wanted Person",
 "Hazmat Response",
-"Shooting Victim",
+"Shooting",
 "'Shots Heard' = Fireworks",
 "No Plates",
 "Court Ave Fight",
 "Bar Fight",
 "Drive-By Shooting",
-"Stabbing Victim",
+"Stabbing",
 "Vehicle vs Pole",
 "Hit & Run",
 "K9 at Work",
@@ -83,5 +83,6 @@ const text = [
 "Going to Channel 4E",
 "Language Barrier",
 "Sticks",
+"Road Rage",
 ];
 
