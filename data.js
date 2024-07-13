@@ -77,7 +77,7 @@ const text = [
 "Apartment Complex Fire",
 "Drugs Found",
 "Vehicle Blacked Out",
-"Vehicle in Wrong Lanes",
+"Driving in Wrong Lanes",
 "ISP Aircraft Assist",
 "Going to Channel 4E",
 "Language Barrier",
