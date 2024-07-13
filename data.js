@@ -39,7 +39,6 @@ const text = [
 "Urinating in Public",
 "DPQ Loud Music",
 "Vehicle on Fire",
-"Drag Racers",
 "Elevator Rescue",
 "Free Stuff On the Road",
 "Open Mic",
