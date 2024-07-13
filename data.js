@@ -22,7 +22,6 @@ const text = [
 "Red Team Alert",
 "Naked Person",
 "Vehicle vs Structure",
-"Traffic Stop for Speeding",
 "BOLO Dispatched",
 "Vehicle vs Pedestrian",
 "Passed Out Behind the Wheel",
@@ -84,5 +83,6 @@ const text = [
 "Language Barrier",
 "Sticks",
 "Road Rage",
+"Outside Fire",
 ];
 
