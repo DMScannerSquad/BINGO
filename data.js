@@ -74,7 +74,7 @@ const text = [
 "PIT Approved",
 "Decon Needed",
 "Suspect Wearing Mask",
-"Apartment Complex Fire",
+"Apartment Fire Call",
 "Drugs Found",
 "Vehicle Blacked Out",
 "Driving in Wrong Lanes",
