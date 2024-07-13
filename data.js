@@ -11,7 +11,7 @@ const text = [
 "'Shots Heard' = Fireworks",
 "No Plates",
 "Court Ave Fight",
-"Bar Fight",
+"Fight at Bar",
 "Drive-By Shooting",
 "Stabbing",
 "Vehicle vs Pole",
