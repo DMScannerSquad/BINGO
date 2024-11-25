@@ -10,7 +10,7 @@ const text = [
 "Shooting",
 "'Shots Heard' = Fireworks",
 "No Plates",
-"Court Ave Fight",
+"Fight in Court Ave District",
 "Fight at Bar",
 "Drive-By Shooting",
 "Stabbing",
@@ -64,7 +64,7 @@ const text = [
 "Assault",
 "Neighbor Dispute",
 "Prowler",
-"Barking Dog",
+"123 "Can You Hear Me Now?"",
 "Found Property",
 "B & E in Progress",
 "Trespass",
@@ -84,5 +84,9 @@ const text = [
 "Sticks",
 "Road Rage",
 "Outside Fire",
+"123 "Bad man"",
+"123 "The Law"",
+"Need an AIR",
+"Vehicle vs bicycle",
 ];
 
